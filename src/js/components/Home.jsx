@@ -6,33 +6,36 @@ import Footer from "./footer.jsx";
 //include images into your bundle
 
 
+
 //create your first component
 const Home = () => {
+
+
 
 	const cards = [
 		{
 			title: "Card title 1",
 			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			buttonText: "Find Out More!",
-			imgSrc: "https://via.placeholder.com/500x325",
+			imgSrc: "https://picsum.photos/500/325",
 		},
 		{
 			title: "Card title 2",
 			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			buttonText: "Find Out More!",
-			imgSrc: "https://via.placeholder.com/500x325",
+			imgSrc: "https://picsum.photos/500/325",
 		},
 		{
 			title: "Card title 3",
 			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			buttonText: "Find Out More!",
-			imgSrc: "https://via.placeholder.com/500x325",
+			imgSrc: "https://picsum.photos/500/325",
 		},
 		{
 			title: "Card title 4",
 			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 			buttonText: "Find Out More!",
-			imgSrc: "https://via.placeholder.com/500x325",
+			imgSrc: "https://picsum.photos/500/325",
 		},
 	];
 
